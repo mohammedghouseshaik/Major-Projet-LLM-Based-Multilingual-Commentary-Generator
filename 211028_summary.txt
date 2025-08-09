@@ -1,0 +1,17 @@
+### Instruction:
+Generate a cricket match summary based on the given details.
+
+### Input:
+Match Summary:
+- Date: 2005-06-13
+- Venue: The Rose Bowl, Southampton
+- Teams: England vs Australia
+- Match Type: T20 International
+- Toss: England won the toss and chose to bat
+- Outcome: England won by 100 runs
+- Player of the Match: KP Pietersen
+
+
+### Response:
+On June 13th, 2o05, at The Rose bowl in Southampton, an exciting Twenty20 clash took place between two giants of world cricket - England and Australia. After winning the toss, the home team captain Michael Vaughan elected to take first strike with Kevin Pietersan opening alongside Ed Joyce.
+The English duo got off to a flying start as they put together a partnership worth 79 for the first wicket before Joyce was dismissed by Brett Schultz for 45 (38b, 3fours). However, that didn't stop the hosts from piling up the runs with Andrew Strauss scoring a quickfire half century. Pietersn continued his impressive form and scored a sensational innings of 96* (58b) including 11 fours and 3 sixes taking England to an imposing total of 187/4 after their

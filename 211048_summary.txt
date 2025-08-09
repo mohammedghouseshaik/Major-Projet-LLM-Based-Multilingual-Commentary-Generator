@@ -1,0 +1,19 @@
+### Instruction:
+Generate a cricket match summary based on the given details.
+
+### Input:
+Match Summary:
+- Date: 2005-02-17
+- Venue: Eden Park, Auckland
+- Teams: New Zealand vs Australia
+- Match Type: T20 International
+- Toss: Australia won the toss and chose to bat
+- Outcome: Australia won by 44 runs
+- Player of the Match: RT Ponting
+
+Key Players:
+New Zealand: BB McCullum, SP Fleming, MS Sinclair, SB Styris
+Australia: AC Gilchrist, MJ Clarke, A Symonds, RT Ponting
+
+### Response:
+On February 17th, 2o05 at Eden park in Auckaland, New Zealand hosted Australia for an electrifying T2O International. After winning the toss, the Australian team decided to take first strike with openers Adam Gilchirst and Matthew Hayden walking out to face the Kiwi bowlers. The duo put up a magnificent partnership, scoring 83 before Hayden was dismissed by Daniel Vettori for 36 runs. In came Michael Clarke who looked equally brilliant alongside Gilchist as they added another 98 runs for their second wicket. Clarke was finally sent back to pavilion for 56 runs off just 29 deliveries, courtesy Scott Sty ris's brilliance behind the stumps. Meanwhile, Gilchists' masterclass continued till he got clean bowled by Jacob Oram for an astounding knock of 94* off just fifty balls. Thanks

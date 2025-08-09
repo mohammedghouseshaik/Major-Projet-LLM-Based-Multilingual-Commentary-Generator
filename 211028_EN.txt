@@ -1,0 +1,21 @@
+### Instruction:
+Generate a cricket match summary based on the given details.
+
+### Input:
+Match Summary:
+- Date: 2005-06-13
+- Venue: The Rose Bowl, Southampton
+- Teams: England vs Australia
+- Match Type: T20 International
+- Toss: England won the toss and chose to bat
+- Outcome: England won by 100 runs
+- Player of the Match: KP Pietersen
+
+Key Players:
+England: ME Trescothick, GO Jones, A Flintoff, KP Pietersen
+Australia: AC Gilchrist, ML Hayden, A Symonds, MJ Clarke
+
+### Response:
+In a thrilling Twenty20 encounter between two cricketing giants at the picturesque Rose Bowl in Southampton, hosts England registered an emphatic 1-0 victory over the touring Australian team on June 13th, 2oo5.
+After winning the toss, English captain Michael Vaughan elected to take first strike against their fierce rivals. And what followed was nothing short of sheer brilliance from the likes of Marcus Trescottick, Geraint Jones, Andrew FlintOff and Kevin Pietersens, who collectively smashed 241 for six after being put under pressure initially.
+Trescotticks' 79 off just 58 balls set the tone for his side with some delightful strokes that included five boundaries and three maximums. His innings was duly supported by Jones (50), Flintoffs' all-round skills and Pietersons' unbeaten blitzkrieg of
